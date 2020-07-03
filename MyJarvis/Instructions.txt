@@ -1,6 +1,6 @@
 FRIDAY~YOUR CUSTOM PC ASSISTANT
 ===============================
-This is a very basic PC assistant with basic functionalities. 
+This is a PC assistant with basic functionalities. 
 Please make sure all the dependencies are installed before running the code.
 Packages such as webbrowser, os and smtplib are preinstalled. User must install pyttsx3(library for text to
 speech conversion), SpeechRecognition(language processor), wikipedia(for handling wikipedia searches, do install it
