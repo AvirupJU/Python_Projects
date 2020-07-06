@@ -18,7 +18,7 @@ It's basically Mail Merge using python. (sorry...)
 
 6. Hello - Integration, Fourier Transforms, solving differential equations and plotting pandemic spread using numpy, scipy and sympy.
 
-7. MyJarvis- It is one of my most ambitious projects as a python learner. I have used speech recognition and text to speech engine to carry out basic instructions
+7. MyAsst- It is one of my most ambitious projects as a python learner. I have used speech recognition and text to speech engine to carry out basic instructions
 like looking up an article on Wikipedia, launching apps and sending mails. In essence, I have merged my other projects into this one to make something useful. Do read the instructios before running the code.
 
 
